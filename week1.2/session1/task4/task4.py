@@ -23,3 +23,4 @@ print(vegetables)
 # Find and display symmetric difference of the two sets
 difference = fruit.symmetric_difference(vegetables)
 print(difference)
+print('HELLO WORLD')
