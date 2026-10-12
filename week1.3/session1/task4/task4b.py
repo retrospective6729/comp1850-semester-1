@@ -1,5 +1,8 @@
 # Week 1.3, Session 1: Task 4b
+k = 0
 
+for k in range (3,50,3):
+    print (k)
 
 
 # create a for loop and use range to print the list of numbers 
